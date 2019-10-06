@@ -1,0 +1,22 @@
+site_name: عنوان سایت
+
+theme:
+  name: 'material'
+  language: 'fa'
+  direction: 'rtl'
+  palette:
+    primary: 'blue'
+    accent: 'blue'
+  font: false
+  feature:
+    tabs: false
+  # extra:
+  #   social:
+  #     - type: 'github'
+  #       link: 'https://github.com/squidfunk'    
+
+extra_css:
+  - 'stylesheets/extra.css'
+
+nav:
+- صفحه اصلی: 'index.md'
