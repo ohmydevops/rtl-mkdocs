@@ -4,8 +4,13 @@
 
 # installation
 sudo apt install python3-pip
+
 python3 -m pip install mkdocs-material --user
+
 اگر کاربر zsh هستید:
+
 echo "export PATH=/home/amirbagh75/.local/bin:\$PATH" >> .zshrc
+
 اگر کاربر bash هستید:
+
 echo "export PATH=/home/amirbagh75/.local/bin:\$PATH" >> .bashrc
