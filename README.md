@@ -14,3 +14,17 @@ echo export PATH=\$HOME/.local/bin:\$PATH" >> .zshrc
 اگر کاربر bash هستید:
 
 echo export PATH=\$HOME/.local/bin:\$PATH" >> .bashrc
+
+# Usage
+
+For run:
+`mkdocs server`
+
+For Build Statis HTML/CSS/JS
+`mkdocs build`
+
+# More Info
+https://www.mkdocs.org/
+
+
+https://squidfunk.github.io/mkdocs-material/
