@@ -31,9 +31,11 @@ open your browser and go to: http://127.0.0.1:8000
 # Usage
 
 For run:
+
 `mkdocs server`
 
-For Build Statis HTML/CSS/JS
+For Build Statis HTML/CSS/JS:
+
 `mkdocs build`
 
 # More Info
