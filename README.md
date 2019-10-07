@@ -7,13 +7,17 @@
 
 `python3 -m pip install mkdocs-material --user`
 
-for zsh users:
+**for zsh users:**
 
 `echo export PATH=\$HOME/.local/bin:\$PATH" >> .zshrc`
 
-for bash users:
+`source $HOME/.zshrc`
+
+**for bash users:**
 
 `echo export PATH=\$HOME/.local/bin:\$PATH" >> .bashrc`
+
+`source $HOME/.bashrc`
 
 # Sample Project
 `git clone https://makhzan.profile-digital.com/amirbagh75/doc-boilerplate.git`
