@@ -9,8 +9,8 @@ python3 -m pip install mkdocs-material --user
 
 اگر کاربر zsh هستید:
 
-echo "export PATH=/home/amirbagh75/.local/bin:\$PATH" >> .zshrc
+echo export PATH=\$HOME/.local/bin:\$PATH" >> .zshrc
 
 اگر کاربر bash هستید:
 
-echo "export PATH=/home/amirbagh75/.local/bin:\$PATH" >> .bashrc
+echo export PATH=\$HOME/amirbagh75/.local/bin:\$PATH" >> .bashrc
