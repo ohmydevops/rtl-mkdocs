@@ -7,11 +7,11 @@
 
 `python3 -m pip install mkdocs-material --user`
 
-اگر کاربر zsh هستید:
+for zsh users:
 
 `echo export PATH=\$HOME/.local/bin:\$PATH" >> .zshrc`
 
-اگر کاربر bash هستید:
+for bash users:
 
 `echo export PATH=\$HOME/.local/bin:\$PATH" >> .bashrc`
 
