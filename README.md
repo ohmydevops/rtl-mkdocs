@@ -15,6 +15,15 @@ echo export PATH=\$HOME/.local/bin:\$PATH" >> .zshrc
 
 echo export PATH=\$HOME/.local/bin:\$PATH" >> .bashrc
 
+# Sample Project
+`git clone https://makhzan.profile-digital.com/amirbagh75/doc-boilerplate.git`
+
+`cd doc-boilerplate`
+
+`mkdocs serve`
+
+open your browser and go to: http://127.0.0.1:8000
+
 # Usage
 
 For run:
