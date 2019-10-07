@@ -13,4 +13,4 @@ echo export PATH=\$HOME/.local/bin:\$PATH" >> .zshrc
 
 اگر کاربر bash هستید:
 
-echo export PATH=\$HOME/amirbagh75/.local/bin:\$PATH" >> .bashrc
+echo export PATH=\$HOME/.local/bin:\$PATH" >> .bashrc
