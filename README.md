@@ -22,7 +22,7 @@
 `source $HOME/.bashrc`
 
 # Sample Project
-`git clone https://makhzan.profile-digital.com/amirbagh75/doc-boilerplate.git`
+`git clone https://github.com/amirbagh75/rtl-mkdocs.git`
 
 `cd doc-boilerplate`
 
