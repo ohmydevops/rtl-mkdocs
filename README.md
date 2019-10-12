@@ -24,7 +24,7 @@
 # Sample Project
 `git clone https://github.com/amirbagh75/rtl-mkdocs.git`
 
-`cd doc-boilerplate`
+`cd rtl-mkdocs`
 
 `mkdocs serve`
 
