@@ -11,13 +11,13 @@
 
 **for zsh users:**
 
-`echo export PATH=\$HOME/.local/bin:\$PATH" >> .zshrc`
+`echo export PATH=\$HOME/.local/bin:\$PATH >> $HOME/.zshrc`
 
 `source $HOME/.zshrc`
 
 **for bash users:**
 
-`echo export PATH=\$HOME/.local/bin:\$PATH" >> .bashrc`
+`echo export PATH=\$HOME/.local/bin:\$PATH >> $HOME/.bashrc`
 
 `source $HOME/.bashrc`
 
