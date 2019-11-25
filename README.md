@@ -7,6 +7,8 @@
 # installation (for linux users)
 `sudo apt install python3-pip`
 
+`sudo apt install python3-setuptools`
+
 `python3 -m pip install mkdocs-material --user`
 
 **for zsh users:**
