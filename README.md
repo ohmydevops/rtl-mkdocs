@@ -1,9 +1,3 @@
-# doc-boilerplate
-
-<div dir='auto'>
-برای ساخت مستندات میتوانیم از این ابزار استفاده کنیم. زیبا و راحت و سریع و قابل تغییر!
-</div>
-
 # installation (for linux users)
 `sudo apt install python3-pip`
 
